@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @EMILIO4BA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-EMILIO4BA/EMILIO4BA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+<head><title>pagina inical</title></head>
+<body bgcolor="yelow">
+hola world!
+emilio rodas
+</body>
+</html>
